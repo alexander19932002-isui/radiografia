@@ -1,0 +1,91 @@
+﻿fecha,banco,indicador,valor,unidad,archivo,hoja,celda
+2026-08-31,Banco Bice,colocaciones_mmclp,16906290.058231,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D14
+2026-08-31,Banco BTG Pactual Chile,colocaciones_mmclp,3986859.024642,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D15
+2026-08-31,Banco Consorcio,colocaciones_mmclp,6017500.80653,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D16
+2026-08-31,Banco de Chile,colocaciones_mmclp,40737041.461461,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D17
+2026-08-31,Banco de Crédito e Inversiones,colocaciones_mmclp,60135936.595654,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D18
+2026-08-31,Banco del Estado de Chile,colocaciones_mmclp,39274319.56813499,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D19
+2026-08-31,Banco Falabella,colocaciones_mmclp,5070113.5534270005,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D20
+2026-08-31,Banco Internacional,colocaciones_mmclp,4861351.896759,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D21
+2026-08-31,Banco Itaú Chile,colocaciones_mmclp,29457128.350920998,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D22
+2026-08-31,Banco Ripley,colocaciones_mmclp,1273814.113897,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D23
+2026-08-31,Banco Santander-Chile,colocaciones_mmclp,42408655.162212,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D24
+2026-08-31,"Bank of China, Agencia en Chile",colocaciones_mmclp,8020.330666,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D25
+2026-08-31,"China Construction Bank, Agencia en Chile",colocaciones_mmclp,182552.235192,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D26
+2026-08-31,HSBC Bank (Chile),colocaciones_mmclp,354253.624496,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D27
+2026-08-31,"Jp Morgan Chase Bank, N.A.",colocaciones_mmclp,15022.663522,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D28
+2026-08-31,Scotiabank Chile,colocaciones_mmclp,32568826.057011,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D29
+2026-08-31,Tanner Banco Digital,colocaciones_mmclp,742888.861579,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D30
+2026-08-31,Sistema Bancario,colocaciones_mmclp,284000574.364335,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,D32
+2026-08-31,Banco Bice,colocaciones_costo_amortizado_mmclp,16906290.058231,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E14
+2026-08-31,Banco BTG Pactual Chile,colocaciones_costo_amortizado_mmclp,3986859.024642,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E15
+2026-08-31,Banco Consorcio,colocaciones_costo_amortizado_mmclp,6017500.80653,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E16
+2026-08-31,Banco de Chile,colocaciones_costo_amortizado_mmclp,40737041.461461,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E17
+2026-08-31,Banco de Crédito e Inversiones,colocaciones_costo_amortizado_mmclp,60074865.232301,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E18
+2026-08-31,Banco del Estado de Chile,colocaciones_costo_amortizado_mmclp,39274319.56813499,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E19
+2026-08-31,Banco Falabella,colocaciones_costo_amortizado_mmclp,5070113.5534270005,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E20
+2026-08-31,Banco Internacional,colocaciones_costo_amortizado_mmclp,4861351.896759,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E21
+2026-08-31,Banco Itaú Chile,colocaciones_costo_amortizado_mmclp,29447386.632705,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E22
+2026-08-31,Banco Ripley,colocaciones_costo_amortizado_mmclp,1273814.113897,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E23
+2026-08-31,Banco Santander-Chile,colocaciones_costo_amortizado_mmclp,41788276.403924,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E24
+2026-08-31,"Bank of China, Agencia en Chile",colocaciones_costo_amortizado_mmclp,8020.330666,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E25
+2026-08-31,"China Construction Bank, Agencia en Chile",colocaciones_costo_amortizado_mmclp,182552.235192,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E26
+2026-08-31,HSBC Bank (Chile),colocaciones_costo_amortizado_mmclp,354253.624496,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E27
+2026-08-31,"Jp Morgan Chase Bank, N.A.",colocaciones_costo_amortizado_mmclp,15022.663522,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E28
+2026-08-31,Scotiabank Chile,colocaciones_costo_amortizado_mmclp,32568826.057011,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E29
+2026-08-31,Tanner Banco Digital,colocaciones_costo_amortizado_mmclp,742888.861579,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E30
+2026-08-31,Sistema Bancario,colocaciones_costo_amortizado_mmclp,283309382.524478,MM CLP,articles-113883_recurso_1.xlsx,Est. Situación Financ. Bancos,E32
+2026-08-31,Banco Bice,morosidad_90_pct,1.3777528794946774,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C14
+2026-08-31,Banco BTG Pactual Chile,morosidad_90_pct,0.0,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C15
+2026-08-31,Banco Consorcio,morosidad_90_pct,2.7072035461336315,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C16
+2026-08-31,Banco de Chile,morosidad_90_pct,1.654492280514835,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C17
+2026-08-31,Banco de Crédito e Inversiones,morosidad_90_pct,1.3098330494680035,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C18
+2026-08-31,Banco del Estado de Chile,morosidad_90_pct,3.925156073516678,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C19
+2026-08-31,Banco Falabella,morosidad_90_pct,2.905239223694259,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C20
+2026-08-31,Banco Internacional,morosidad_90_pct,2.4154647691784095,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C21
+2026-08-31,Banco Itaú Chile,morosidad_90_pct,2.049329996313526,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C22
+2026-08-31,Banco Ripley,morosidad_90_pct,3.451720546766942,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C23
+2026-08-31,Banco Santander-Chile,morosidad_90_pct,3.453864051652707,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C24
+2026-08-31,"Bank of China, Agencia en Chile",morosidad_90_pct,0.0,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C25
+2026-08-31,"China Construction Bank, Agencia en Chile",morosidad_90_pct,0.0,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C26
+2026-08-31,HSBC Bank (Chile),morosidad_90_pct,0.0,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C27
+2026-08-31,"Jp Morgan Chase Bank, N.A.",morosidad_90_pct,0.0,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C28
+2026-08-31,Scotiabank Chile,morosidad_90_pct,2.635097710622742,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C29
+2026-08-31,Tanner Banco Digital,morosidad_90_pct,0.0004883206880083537,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C30
+2026-08-31,Sistema Bancario,morosidad_90_pct,2.3360549816606824,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. Mora y Deteriorada ,C32
+2026-08-31,Banco Bice,provisiones_clasificacion_pct,2.136136880948488,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C14
+2026-08-31,Banco BTG Pactual Chile,provisiones_clasificacion_pct,1.7497028522412812,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C15
+2026-08-31,Banco Consorcio,provisiones_clasificacion_pct,1.931060678378335,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C16
+2026-08-31,Banco de Chile,provisiones_clasificacion_pct,2.06979457076842,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C17
+2026-08-31,Banco de Crédito e Inversiones,provisiones_clasificacion_pct,1.5323282191219012,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C18
+2026-08-31,Banco del Estado de Chile,provisiones_clasificacion_pct,2.999031963488533,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C19
+2026-08-31,Banco Falabella,provisiones_clasificacion_pct,6.497782399495194,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C20
+2026-08-31,Banco Internacional,provisiones_clasificacion_pct,1.7497876622490673,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C21
+2026-08-31,Banco Itaú Chile,provisiones_clasificacion_pct,2.5115266468930226,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C22
+2026-08-31,Banco Ripley,provisiones_clasificacion_pct,10.268968299685291,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C23
+2026-08-31,Banco Santander-Chile,provisiones_clasificacion_pct,3.3404033502490242,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C24
+2026-08-31,"Bank of China, Agencia en Chile",provisiones_clasificacion_pct,0.21874999586207836,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C25
+2026-08-31,"China Construction Bank, Agencia en Chile",provisiones_clasificacion_pct,3.323265577997076,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C26
+2026-08-31,HSBC Bank (Chile),provisiones_clasificacion_pct,3.8833037506876185,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C27
+2026-08-31,"Jp Morgan Chase Bank, N.A.",provisiones_clasificacion_pct,0.47873979134710193,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C28
+2026-08-31,Scotiabank Chile,provisiones_clasificacion_pct,2.8183288964614275,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C29
+2026-08-31,Tanner Banco Digital,provisiones_clasificacion_pct,2.2813748857368905,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C30
+2026-08-31,Sistema Bancario,provisiones_clasificacion_pct,2.5146421943874255,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. R. Crédito Provisiones,C32
+2026-08-31,Banco Bice,eficiencia_gastos_ingresos_pct,50.504090537992234,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M14
+2026-08-31,Banco BTG Pactual Chile,eficiencia_gastos_ingresos_pct,40.09381359507392,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M15
+2026-08-31,Banco Consorcio,eficiencia_gastos_ingresos_pct,46.440180615451844,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M16
+2026-08-31,Banco de Chile,eficiencia_gastos_ingresos_pct,35.646762114717625,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M17
+2026-08-31,Banco de Crédito e Inversiones,eficiencia_gastos_ingresos_pct,45.30737722481892,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M18
+2026-08-31,Banco del Estado de Chile,eficiencia_gastos_ingresos_pct,48.345289527968205,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M19
+2026-08-31,Banco Falabella,eficiencia_gastos_ingresos_pct,33.02647442670569,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M20
+2026-08-31,Banco Internacional,eficiencia_gastos_ingresos_pct,50.969191698370174,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M21
+2026-08-31,Banco Itaú Chile,eficiencia_gastos_ingresos_pct,69.42522880648914,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M22
+2026-08-31,Banco Ripley,eficiencia_gastos_ingresos_pct,45.33657219261362,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M23
+2026-08-31,Banco Santander-Chile,eficiencia_gastos_ingresos_pct,32.83525132442824,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M24
+2026-08-31,"Bank of China, Agencia en Chile",eficiencia_gastos_ingresos_pct,57.26794333734077,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M25
+2026-08-31,"China Construction Bank, Agencia en Chile",eficiencia_gastos_ingresos_pct,60.988811158592355,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M26
+2026-08-31,HSBC Bank (Chile),eficiencia_gastos_ingresos_pct,43.14931197868121,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M27
+2026-08-31,"Jp Morgan Chase Bank, N.A.",eficiencia_gastos_ingresos_pct,29.77259502600753,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M28
+2026-08-31,Scotiabank Chile,eficiencia_gastos_ingresos_pct,38.70029821361731,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M29
+2026-08-31,Tanner Banco Digital,eficiencia_gastos_ingresos_pct,135.02893086764934,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M30
+2026-08-31,Sistema Bancario,eficiencia_gastos_ingresos_pct,43.20444953781901,porcentaje (0-100),articles-113883_recurso_1.xlsx,Ind. de Rentab. y Eficiencia,M32
